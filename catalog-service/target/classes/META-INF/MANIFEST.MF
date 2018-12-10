@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: catalog-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: amajeti
+Implementation-Vendor-Id: com.mydzone.microservices
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/catalog-service
+Created-By: Maven Integration for Eclipse
+
